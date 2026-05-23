@@ -1,16 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ola Mundo Vite
 
-Currently, two official plugins are available:
+Projeto inspirado em um curso da Alura sobre React Router, originalmente desenvolvido com Create React App.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Decidi recriar toda a base utilizando Vite, aproveitando sua performance e simplicidade durante o desenvolvimento. Além da migração, personalizei o projeto para funcionar como um portfólio, substituindo o conteúdo original pelos meus próprios projetos.
 
-## React Compiler
+O objetivo deste projeto foi praticar conceitos importantes do ecossistema React, como componentização, rotas, organização de páginas e estruturação de aplicações modernas, enquanto desenvolvia um espaço para apresentar meus trabalhos de forma prática e organizada.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- React Router
+- JavaScript
+- CSS Modules
+
+## 🌐 Deploy
+
+Projeto hospedado na Vercel.
+
+## 📌 Objetivo
+
+Praticar React Router e desenvolver um portfólio pessoal utilizando React e Vite.
+
