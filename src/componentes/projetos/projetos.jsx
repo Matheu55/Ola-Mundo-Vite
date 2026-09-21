@@ -24,7 +24,7 @@ export default function Projetos() {
                     src={lancer} alt="Foto do Projeto Lancer"
                 />
                 <h2 className={styles.tituloProjeto} >Lancer</h2>
-                <BotaoPrincipal onClick={() => window.open("https://lancer-livid.vercel.app/", "_blank")}>
+                <BotaoPrincipal onClick={() => window.open("https://motor-e-paix-o-seven.vercel.app/", "_blank")}>
                     Ver projeto
                 </BotaoPrincipal>
             </div>
